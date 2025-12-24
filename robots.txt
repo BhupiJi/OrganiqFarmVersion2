@@ -1,0 +1,6 @@
+# robots.txt for organiqlarm.com
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://organiqfarm.com/sitemap.xml
